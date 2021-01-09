@@ -6,13 +6,17 @@ class store {
                 If (number = = 0) {
                  System.out.println (“ Nothing Purchased”);
 	}
-	Else {
+	Else if
+	items more than 10,
+	amount= amount*0.25;{
 	Int qoq[] = newInt(number);
 	Int bu[]=0;
 	System.out.println(“Please enter the price of items : ”)
+	
 	For (int i=0; I < number ; i++)
  	{ qoq[i] = sc.nextInt();
 	Receipt +=qoq[i];
 	}
 	System.out.println(“the total is : “ +receipt);
+	print amount;
 	}}} 
